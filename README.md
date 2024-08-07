@@ -2,7 +2,7 @@
 📚 Graduated in System Analysis and Development.<p></p>
 👩‍💻 I have professional experience in System Support and System Development, perfoming as Back and FrontEnd.<p></p>
 💡  My goal is to master even more the needed skills to become a great FullStack developer.<p></p>
-✅PT-BR/EN
+✅PT-BR/EN/ES
 
 #  💻These are my known technologies 💻 
 
