@@ -2,7 +2,11 @@
 📚 Graduated in System Analysis and Development.<p></p>
 👩‍💻 I have professional experience in System Support and System Development, perfoming as Back and FrontEnd.<p></p>
 💡  My goal is to master even more the needed skills to become a great FullStack developer.<p></p>
-✅PT-BR/EN/ES
+✅PT-BR/EN/ES <p></p>
+
+Feel free to contact me!   <p></p>
+✉️  encattani@gmail.com or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enrico-cattani-716776233/)
+
 
 #  💻These are my known technologies 💻 
 
