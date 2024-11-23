@@ -5,7 +5,7 @@
 ✅PT-BR/EN/ES <p></p>
 
 Feel free to contact me!   <p></p>
-✉️  encattani@gmail.com or [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enrico-cattani-716776233/)
+✉️  encattani@gmail.com  <br><br> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/enrico-cattani-716776233/)
 
 
 #  💻These are my known technologies 💻 
