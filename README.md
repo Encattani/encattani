@@ -44,8 +44,4 @@ Feel free to contact me!   <p></p>
 <img align="center" height="30" width="80" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />        
 </div>
 
-<br>
-<div style="display: flex; gap: 2; jusfiy-content: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=encattani&show_icons=true&theme=neon" alt="status">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=encattani&layout=compact&theme=neon" alt="language-used">
-</div>
+
