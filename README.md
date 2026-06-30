@@ -1,4 +1,4 @@
-# Hey there! I'm Enrico, 27yo! 👋
+# Hey there! I'm Enrico, 29yo! 👋
 📚 Graduated in System Analysis and Development.<p></p>
 👩‍💻 I have professional experience in System Support and System Development, perfoming as Back and FrontEnd.<p></p>
 💡  My goal is to master even more the needed skills to become a great FullStack developer.<p></p>
